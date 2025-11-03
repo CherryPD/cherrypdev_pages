@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Informativa sulla Privacy</title>
+</head>
+<body style="max-width: 800px; margin: auto; font-family: Arial;">
+    <h1>Informativa sulla Privacy</h1>
+    <p><strong>Nome dell'app:</strong> Flying Memo</p>
+    <p><strong>Sviluppatore:</strong>CherryPDev</p>
+
+    <h2>1. Dati raccolti</h2>
+    <p>L'app non raccoglie dati.</p>
+
+    <h2>3. Condivisione con terze parti</h2>
+    <p>I dati non vengono condivisi con terze parti, eccetto quando necessario per servizi come Google Play Services, AdMob, Analytics, ecc.</p>
+
+    <p style="margin-top: 30px;">Ultimo aggiornamento: 04/11/2025</p>
+</body>
+</html>
